@@ -47,7 +47,7 @@ const screenshots = [
 const manifest = {
 	orientation: 'landscape',
 	name: VITE_APP_TITLE,
-	short_name: 'WishSimulator.App',
+	short_name: 'genshinimpactwish.vercel.app',
 	theme_color: '#ffffff',
 	background_color: '#ffffff',
 	display: 'fullscreen',
