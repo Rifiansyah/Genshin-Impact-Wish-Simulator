@@ -12,8 +12,8 @@
 
 <section>
 	<header>
-		<h1>Privacy Policy for WishSimulator.App</h1>
-		<h2>Genshin Impact Wish Simulator</h2>
+		<h1>Privacy Policy for genshinimpactwish.vercel.app</h1>
+		<h2>Genshin Impact Wish</h2>
 	</header>
 
 	<article>
